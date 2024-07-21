@@ -1,2 +1,2 @@
-# Sort_Search_compute
+# Sort Search Compute
 Implementations of sorting, searching and computation algorithms
