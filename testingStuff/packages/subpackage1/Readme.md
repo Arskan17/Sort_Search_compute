@@ -1,0 +1,1 @@
+The function `pythonFunfact()` takes in an integer from 0 to 10, and gives out a funfact about Python.
